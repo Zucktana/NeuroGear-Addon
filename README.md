@@ -19,3 +19,8 @@ Install: Unzip the folder into TurtleWoW\Interface\AddOns\.
 Invite the Bot: [Invite Link]
 
 Source Code: The project is open-source on GitHub for transparency.
+
+/neuro save [name]
+/neuro export [name] (this will bring up a copy and paste window, just hit ctrl+c
+then come to discord and
+!gear [code] (code being what you copied in game
