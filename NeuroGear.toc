@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: NeuroGear
+## Notes: Export gear for the Neurospicy Discord Bot.
+## SavedVariablesPerCharacter: NeuroGearDB
+## OptionalDeps: AtlasLoot
+NeuroGear.lua
